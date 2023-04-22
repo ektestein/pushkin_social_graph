@@ -1,0 +1,1 @@
+C:\Users\wilson\miniconda3\envs\pushkin_social_graph\Library\bin\fdp.exe -T png -o psg.png psg.gv
